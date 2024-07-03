@@ -1,7 +1,7 @@
-# Playlist Download
+# SpotifySync
 
 ## Overview
-Playlist Download is a Python script designed to help you download songs from your Spotify playlist to your local computer. The script utilizes Jupyter Notebook, Selenium, and BeautifulSoup to automate the process of accessing Spotify web pages, extracting song information, and triggering downloads.
+SpotifySync is a Python script designed to help you download songs from your Spotify playlist to your local computer. The script utilizes Jupyter Notebook, Selenium, and BeautifulSoup to automate the process of accessing Spotify web pages, extracting song information, and triggering downloads.
 
 ## Prerequisites
 Before running the script, make sure you have the following prerequisites:
